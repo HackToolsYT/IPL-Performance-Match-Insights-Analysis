@@ -64,7 +64,7 @@ This project explores IPL data to extract meaningful insights.
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/ipl_dashboard.png)
+![Dashboard](IPL.png)
 
 ---
 
